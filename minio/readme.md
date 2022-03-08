@@ -2,7 +2,7 @@
 # Install MinIO
 
 ## Prerequisite
-* Install `kubectl`
+* Install `kubectl` and `oc` CLI
 * Logged in to the OpenShift cluster
 
 ## Instructions
