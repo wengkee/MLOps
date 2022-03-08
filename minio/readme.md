@@ -10,3 +10,7 @@
 
         cd base
         kubectl apply -k .
+
+* Get the URL
+
+        oc get route
