@@ -3,7 +3,7 @@
 
 ## Prerequisite
 * Install `kubectl` and `oc` CLI
-* Logged in to the OpenShift cluster
+* Login to the OpenShift cluster
 
 ## Instructions
 * Install MinIO using kubectl with Kustomize
